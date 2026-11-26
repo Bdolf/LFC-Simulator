@@ -1,0 +1,24 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+.claude
+.opencode
+.opencode-data/
+.tmp/
+.local/
+.cache/
+.bun/
+.mcp.json
+.temp/
+*.tgz
+*.tgz.*
+
+# User attachments (source zips, reference images) — local only
+.attachments/
+
+# Cloned app repositories with their OWN .git (gitUrl apps) are separate repos.
+# Apps built in this project (e.g. apps/lfc-ro-simulator) are committed here.
+# apps/

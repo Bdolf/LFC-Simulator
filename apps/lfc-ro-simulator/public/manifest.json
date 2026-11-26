@@ -1,0 +1,10 @@
+{
+  "name": "LFC RO Simulator",
+  "description": "Simulation model base for Live Fish Carrier water production: identifies areas suitable for RO water production, alerts when producing near fish farms or on shallows, and gives predictive maintenance instructions (CIP, extended freshwater flush).",
+  "version": "0.19.2",
+  "versionDescription": "Map-nakymaan lisatty Auto route / Manual -vaihtonapit (oikea ylakulma). Manual-tilassa karttaa klikkaamalla voi sijoittaa aluksen, Auto seuraa 3-hakin reittia.",
+  "appId": "6b001bae6645d8f4a490ad03",
+  "config": {
+    "fields": {}
+  }
+}
